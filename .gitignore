@@ -6,3 +6,12 @@
 
 # Database
 *.sqlite3
+
+# "New" Static files (not sure)
+staticfiles
+
+# Virtual environment files
+venv
+
+# Visual studio files
+.vs
